@@ -19,6 +19,5 @@ class Solution {
                 s++; l--;
             }
         }
-        System.out.println(Arrays.deepToString(matrix));
     }
 }
