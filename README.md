@@ -19,9 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhishekrana001/LeetCode/tree/master/0048-rotate-image) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrana001/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrana001/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/abhishekrana001/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/abhishekrana001/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
