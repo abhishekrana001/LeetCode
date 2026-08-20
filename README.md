@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekrana001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/abhishekrana001/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/abhishekrana001/LeetCode/tree/master/0242-valid-anagram) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekrana001/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
