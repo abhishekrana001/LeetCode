@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekrana001/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/abhishekrana001/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/abhishekrana001/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekrana001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekrana001/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekrana001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/abhishekrana001/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
